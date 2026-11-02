@@ -6,6 +6,8 @@ Grava as operações do sistema (criação, alteração, exclusão, compartilham
 
 ## Como usar
 
+Precisa de Java 25 ou mais novo (a versão `1.0.0` é para Java 17).
+
 No `pom.xml`:
 
 ```xml
@@ -19,7 +21,7 @@ No `pom.xml`:
 <dependency>
     <groupId>com.github.Tetzdesen</groupId>
     <artifactId>estimativa-log</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
 </dependency>
 ```
 
